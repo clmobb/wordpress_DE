@@ -1,0 +1,48 @@
+/*
+Theme Name: WordPress-Theme mit Bootstrap
+Theme URI: http://web-tecture.com
+Author: Claus Schmidt
+Author URI: http://web-tecture.com
+Description: Learning WordPress
+Version: 1.0
+Tags: training, bootstrap, wordpress
+Text Domain: WordPress-Theme mit Bootstrap
+
+*/
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.meta {
+    font-style: italic;
+    font-size: 85%;
+    margin: 0 0 0.8em 0;
+}
+
+.alignleft {
+    float: left;
+    margin: 0 2em 2em 0;
+}
+
+.alignright {
+    float: right;
+    margin: 0 0 2em 2em;
+}
+
+.wp-caption-text {
+    font-style: italic;
+    font-size: 90%;
+}
+
+.category_thumbnail {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+ul.sidebar,
+ul.comments,
+ul.children {
+    list-style: none;
+}
